@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi [fronzec](website) here 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/ed_fronzec?color=%231DA1F2&label=FRONZEC&logo=twitter&style=for-the-badge)](https://twitter.com/ed_fronzec)
 
 **fronzec/fronzec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[website]: https://eflores.me
