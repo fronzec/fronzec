@@ -20,8 +20,6 @@
 
 ---
 
-### Spotify Playing
-[<img src="https://spotify-now-playing-lime-five.vercel.app/api/spotify-playing" width="350" />]()
 
 <!-- LINKS-->
 
