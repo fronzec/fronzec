@@ -20,7 +20,7 @@
 
 ---
 
-### Spotify Playing
+### Now I'm listening ...
 [<img src="https://spotify-now-playing.fronzec.vercel.app/api/spotify" width="350" />]()
 
 <!-- LINKS-->
