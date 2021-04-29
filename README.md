@@ -18,6 +18,10 @@ Follow me(EN-ES): [![Twitter Follow](https://img.shields.io/twitter/follow/ed_fr
 
 <br/>
 
+
+[![Fronzec's GitHub stats](https://github-readme-stats.vercel.app/api?username=fronzec&show_icons=true&theme=onedark)](https://github.com/fronzec/github-readme-stats)
+
+
 ---
 
 ### Now I'm listening ...
