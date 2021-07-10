@@ -5,7 +5,7 @@ Follow me(EN-ES): [![Twitter Follow](https://img.shields.io/twitter/follow/ed_fr
 [<img src="https://pbs.twimg.com/profile_banners/193044694/1524730638/1500x500">](https://eflores.me/)
 
 ### 💻 Software Engineer
-- 🌱 I’m currently learning Ruby and RoR
+- 🌱 I’m currently learning Go
 - ⚡ Fun fact: I love music but I don't know how to play any instrument, not yet.
 - My favorite video games genre is real-time strategy games
 ---
@@ -15,6 +15,9 @@ Follow me(EN-ES): [![Twitter Follow](https://img.shields.io/twitter/follow/ed_fr
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+
 
 <br/>
 
