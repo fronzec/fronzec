@@ -1,11 +1,14 @@
-### Hi [fronzec](https://eflores.me/) here 👋
+### Hi [fronzec](https://fronzec.com/) here 👋
 
-Follow me(EN-ES): [![Twitter Follow](https://img.shields.io/twitter/follow/ed_fronzec?color=%231DA1F2&label=FRONZEC&logo=twitter&style=for-the-badge)](https://twitter.com/ed_fronzec)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ed_fronzec?color=%231DA1F2&label=FRONZEC&logo=twitter&style=for-the-badge)](https://twitter.com/ed_fronzec)
+
 
 ### 💻 Software Engineer
-- 🌱 I’m currently learning Go
-- ⚡ Fun fact: I love music but I don't know how to play any instrument, not yet.
-- My favorite video games genre is real-time strategy games
+- I’m currently learning Rust, but I'm proficient mainly in Java, Python and Go.
+- I'm focused in backend development.
+- My favorite video games genre is real-time strategy.
+- I love listening to music 🎶.
+
 ---
 
 ### Now, coding mainly in ...
