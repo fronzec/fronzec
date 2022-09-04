@@ -28,7 +28,7 @@ Follow me(EN-ES): [![Twitter Follow](https://img.shields.io/twitter/follow/ed_fr
 ---
 
 ### Now I'm listening ...
-[<img src="https://spotify-now-playing.fronzec.vercel.app/api/spotify" width="350" />]()
+[![Spotify](https://spotify-now-playing-for-github-profile-60r7zkxo2-fronzec.vercel.app/api/spotify)](https://open.spotify.com/user/fronzec)
 
 <!-- LINKS-->
 
