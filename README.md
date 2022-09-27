@@ -30,9 +30,9 @@
 
 ---
 
-### Now I'm listening ...
+### A little bit of the music I listen to ...
 [![Spotify](https://spotify-now-playing-for-github-profile-60r7zkxo2-fronzec.vercel.app/api/spotify)](https://open.spotify.com/user/fronzec)
 
 <!-- LINKS-->
 
-[website]: https://eflores.me/
+[website]: https://fronzec.com/
