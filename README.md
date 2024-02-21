@@ -2,6 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ed_fronzec?color=%231DA1F2&label=FRONZEC&logo=twitter&style=for-the-badge)](https://twitter.com/ed_fronzec)
 
+
 ---
 
 ## 💻 Software Engineer
@@ -31,6 +32,8 @@
 [![Fronzec's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fronzec&layout=compact&langs_count=8)](https://github.com/fronzec/github-readme-stats)
 
 [![Fronzec's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fronzec)](https://github.com/fronzec/github-readme-stats)
+
+<a href="https://app.daily.dev/fronzec"><img src="https://api.daily.dev/devcards/v2/a840219e030e432482cfe5d8189d5207.png?type=wide&r=mi7" width="652" alt="Eduardo Flores's Dev Card"/></a>
 
 ---
 
