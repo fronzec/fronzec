@@ -35,6 +35,8 @@
 
 <a href="https://app.daily.dev/fronzec"><img src="https://api.daily.dev/devcards/v2/a840219e030e432482cfe5d8189d5207.png?type=wide&r=mi7" width="652" alt="Eduardo Flores's Dev Card"/></a>
 
+[![roadmap.sh](https://roadmap.sh/card/wide/6678ef25ae5b6c417935b0f7?variant=dark)](https://roadmap.sh)
+
 ---
 
 ## A little bit of the music I listen to ...
