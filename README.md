@@ -1,4 +1,4 @@
-## Hi [fronzec](https://fronzec.com/) here 👋
+## Hi [Eduardo](https://eduloopdev.github.io/) here 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ed_fronzec?color=%231DA1F2&label=FRONZEC&logo=twitter&style=for-the-badge)](https://twitter.com/ed_fronzec)
 
