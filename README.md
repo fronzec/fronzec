@@ -27,11 +27,11 @@
 
 ## My stats
 
-[![Fronzec's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduloopdev&count_private=true&show_icons=true&theme=synthwave)](https://github.com/fronzec/github-readme-stats)
+[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduloopdev&count_private=true&show_icons=true&theme=synthwave)](https://github.com/eduloopdev/github-readme-stats)
 
-[![Fronzec's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fronzec&layout=compact&langs_count=8)](https://github.com/fronzec/github-readme-stats)
+[![Eduardo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduloopdev&layout=compact&langs_count=8)](https://github.com/eduloopdev/github-readme-stats)
 
-[![Fronzec's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fronzec)](https://github.com/fronzec/github-readme-stats)
+[![Eduardo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eduloopdev)](https://github.com/eduloopdev/github-readme-stats)
 
 <a href="https://app.daily.dev/fronzec"><img src="https://api.daily.dev/devcards/v2/a840219e030e432482cfe5d8189d5207.png?type=wide&r=mi7" width="652" alt="Eduardo Flores's Dev Card"/></a>
 
