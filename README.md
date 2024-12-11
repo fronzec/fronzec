@@ -1,6 +1,6 @@
 ## Hi [Eduardo](https://eduloopdev.github.io/) here 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ed_fronzec?color=%231DA1F2&label=FRONZEC&logo=twitter&style=for-the-badge)](https://twitter.com/ed_fronzec)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ed_fronzec?color=%231DA1F2&label=X&logo=twitter&style=for-the-badge)](https://twitter.com/ed_fronzec)
 
 
 ---
@@ -27,7 +27,7 @@
 
 ## My stats
 
-[![Fronzec's GitHub stats](https://github-readme-stats.vercel.app/api?username=fronzec&count_private=true&show_icons=true&theme=synthwave)](https://github.com/fronzec/github-readme-stats)
+[![Fronzec's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduloopdev&count_private=true&show_icons=true&theme=synthwave)](https://github.com/fronzec/github-readme-stats)
 
 [![Fronzec's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fronzec&layout=compact&langs_count=8)](https://github.com/fronzec/github-readme-stats)
 
@@ -44,4 +44,4 @@
 
 <!-- LINKS-->
 
-[website]: https://fronzec.com/
+[website]: https://eduloopdev.github.io/
