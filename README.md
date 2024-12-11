@@ -1,12 +1,12 @@
 ## Hi [Eduardo](https://eduloopdev.github.io/) here 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ed_fronzec?color=%231DA1F2&label=X&logo=twitter&style=for-the-badge)](https://twitter.com/ed_fronzec)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ed_fronzec?color=%231DA1F2&label=Follow%20me%20on%20X&logo=twitter&style=for-the-badge)](https://twitter.com/ed_fronzec)
 
 
 ---
 
 ## 💻 Software Engineer
-- I’m currently learning Rust, but I'm proficient mainly in Java, Python and Go.
+- I’m currently learning Rust, but I'm proficient mainly in Java and Go.
 - I'm focused in backend development.
 - My favorite video games genre is real-time strategy.
 - I love listening to music 🎶.
@@ -17,9 +17,10 @@
 
 <img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
 
-<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
 <img align="left" alt="Go" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+
+<img align="left" alt="Rust" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
+
 <br>
 <br>
 
