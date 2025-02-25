@@ -1,6 +1,6 @@
 ## Hi [Eduardo](https://eduloopdev.github.io/) here 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ed_fronzec?color=%231DA1F2&label=Follow%20me%20on%20X&logo=twitter&style=for-the-badge)](https://twitter.com/ed_fronzec)
+[![Twitter Follow](https://img.shields.io/twitter/follow/eduflores0x?color=%231DA1F2&label=Follow%20me%20on%20X&logo=twitter&style=for-the-badge)](https://twitter.com/eduflores0x)
 
 
 ---
@@ -45,4 +45,4 @@
 
 <!-- LINKS-->
 
-[website]: https://eduloopdev.github.io/
+[website]: https://fronzec.github.io/
