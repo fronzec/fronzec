@@ -1,4 +1,4 @@
-## Hi [Eduardo](https://eduloopdev.github.io/) here 👋
+## Hi [Eduardo](https://eduflores0x.vercel.app/) here 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/eduflores0x?color=%231DA1F2&label=Follow%20me%20on%20X&logo=twitter&style=for-the-badge)](https://twitter.com/eduflores0x)
 
@@ -45,4 +45,4 @@
 
 <!-- LINKS-->
 
-[website]: https://fronzec.github.io/
+[website]: https://eduflores0x.vercel.app/
