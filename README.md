@@ -39,7 +39,7 @@
   <img height=200 align="center" src="https://api.daily.dev/devcards/v2/a840219e030e432482cfe5d8189d5207.png?type=wide&r=mi7" />
 </a>
 <a href="https://roadmap.sh">
-  <img height=200 align="center" src="https://roadmap.sh/card/wide/6678ef25ae5b6c417935b0f7?variant=light" />
+  <img height=200 align="center" src="https://roadmap.sh/card/wide/6678ef25ae5b6c417935b0f7?variant=dark&roadmaps=rust%2Cgolang%2Cjava%2C677eb36570129741a85213a6" />
 </a>
 
 ---
