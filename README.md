@@ -6,7 +6,7 @@
 ---
 
 ## 💻 Software Engineer - Backend Specialist
-- I’m currently learning Rust, but I'm proficient mainly in Java and Go.
+- I'm proficient mainly in Java and Go. I’m currently learning Rust.
 - I'm focused in backend development.
 
 
