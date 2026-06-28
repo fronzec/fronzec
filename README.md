@@ -1,11 +1,11 @@
-## Hi [Eduardo](https://eduflores0x.vercel.app/) here 👋
+## Hi [Eduardo](https://eduardoflores.mx/) here 👋
 
 ---
 
 ## Backend, mostly batch and data pipelines
 
 I build Spring Batch projects to practice the hard parts — fault tolerance,
-restartability, partitioning. The stuff that breaks in production, not the happy path.
+restartability, partitioning.
 
 → [spring-batch-projects](https://github.com/fronzec/spring-batch-projects) — runtime plugin loading, partitioned jobs
 that don't double-charge on restart, proper skip/dead-letter/retry handling.
