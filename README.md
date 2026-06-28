@@ -1,27 +1,21 @@
 ## Hi [Eduardo](https://eduflores0x.vercel.app/) here 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/eduflores0x?color=%231DA1F2&label=Follow%20me%20on%20X&logo=twitter&style=for-the-badge)](https://twitter.com/eduflores0x)
-
-
 ---
 
-## 💻 Software Engineer - Backend Specialist
-- I'm proficient mainly in Java and Go. I’m currently learning Rust.
-- I'm focused in backend development.
+## Backend, mostly batch and data pipelines
 
+I build Spring Batch projects to practice the hard parts — fault tolerance,
+restartability, partitioning. The stuff that breaks in production, not the happy path.
 
+→ [spring-batch-projects](https://github.com/fronzec/spring-batch-projects) — runtime plugin loading, partitioned jobs
+that don't double-charge on restart, proper skip/dead-letter/retry handling.
+Take a look — maybe it helps, or at least gives you an idea.
 
-### Now, coding mainly in ...
+It's practice code. Most of it I could generate — I'm just trying to get better
+at knowing when to pick one approach over another.
 
-<img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
-
-<img align="left" alt="Go" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-
-<img align="left" alt="Rust" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
-
-<br>
-<br>
-
+Java and Go are where I spend my time. Learning Rust for some fun audio-tech
+things, just out of curiosity.
 
 
 ## Statistics
@@ -32,21 +26,3 @@
 <a href="https://github.com/fronzec/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fronzec&count_private=true&show_icons=true&theme=dark" />
 </a>
-
-
-
-<a href="https://app.daily.dev/fronzec">
-  <img height=200 align="center" src="https://api.daily.dev/devcards/v2/a840219e030e432482cfe5d8189d5207.png?type=wide&r=mi7" />
-</a>
-<a href="https://roadmap.sh">
-  <img height=200 align="center" src="https://roadmap.sh/card/wide/6678ef25ae5b6c417935b0f7?variant=dark&roadmaps=rust%2Cgolang%2Cjava%2C677eb36570129741a85213a6" />
-</a>
-
----
-
-## A little bit of the music I listen to ...
-[![Spotify](https://spotify-now-playing-for-github-profile-60r7zkxo2-fronzec.vercel.app/api/spotify)](https://open.spotify.com/user/fronzec)
-
-<!-- LINKS-->
-
-[website]: https://eduflores0x.vercel.app/
